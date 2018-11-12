@@ -1,0 +1,14 @@
+MEETING = 'meeting'
+READ = 'read'
+NIGHT = 'night'
+
+MEETING_RGB = (207, 56, 0)
+READ_RGB = (255, 252, 247)
+NIGHT_RGB = (189, 118, 0)
+
+THEMES = \
+{
+    MEETING: MEETING_RGB,
+    READ: READ_RGB,
+    NIGHT: NIGHT_RGB,
+}
