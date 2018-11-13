@@ -13,6 +13,13 @@ Expower Smart Wifi B22 Rgb Dimmable 7W LED Bulb | https://www.amazon.co.uk/d/Col
 
 -----------------------------------
 
+### Before you get started:
+You must first find some values identifying your Smart Bulb
+
+Follow this tutorial: https://github.com/tombulled/python-expower/blob/master/KEY_EXTRACTION.md
+
+If that doesn't help, see: https://github.com/clach04/python-tuya/wiki
+
 ### Basic Example:
 ```python
 >>> import expower
