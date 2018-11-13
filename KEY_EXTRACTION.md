@@ -18,7 +18,7 @@
 
 ### Step 2:
 1. Download "SSL Capture": https://play.google.com/store/apps/details?id=com.minhui.networkcapture
-2. CLick the "two squares" in the top-left corner of the screen
+2. Click the "two squares" in the top-left corner of the screen
 3. Click "Selected App:"
 4. Type "Smart Life"
 5. Select "Smart Life (com.tuya.smartlife)"
@@ -37,7 +37,7 @@
 5. **That value is your Device Id**
 
 ### Step 5:
-1. Scroll down until you find a huge JSON array (it will probably start: {"result":[{"result":{},"a":"tuya.m.my.group.device.relation.list"m, ...)
+1. Scroll down until you find a huge JSON array (it will probably start: {"result":[{"result":{},"a":"tuya.m.my.group.device.relation.list", ...)
 2. Look very carefully for: `"localKey":` (it will be there somewhere! - *Note: You want the first localKey, not the second*)
 3. **That value is your Device Local Key**
 
