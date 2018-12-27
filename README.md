@@ -88,7 +88,7 @@ python-tuya | https://github.com/clach04/python-tuya
 
 -----------------------------------
 
-### Software/Applications that was of great help:
+### Software/Applications that were of great help:
 
 Software | Link
 -------- | ----
