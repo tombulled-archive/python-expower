@@ -13,6 +13,14 @@ Expower Smart Wifi B22 Rgb Dimmable 7W LED Bulb | https://www.amazon.co.uk/d/Col
 
 -----------------------------------
 
+### Tested on the following Operating Systems:
+Operating System | Link
+---------------- | ----
+Windows 10 | https://www.microsoft.com/en-gb/windows
+Linux Mint Tara (v19, 64bit, Cinnamon)
+
+------------------------------------
+
 ### Before you get started:
 You must first find some values identifying your Smart Bulb
 
