@@ -17,7 +17,7 @@ Expower Smart Wifi B22 Rgb Dimmable 7W LED Bulb | https://www.amazon.co.uk/d/Col
 Operating System | Link
 ---------------- | ----
 Windows 10 | https://www.microsoft.com/en-gb/windows
-Linux Mint Tara (v19, 64bit, Cinnamon)
+Linux Mint Tara (v19, 64bit, Cinnamon) | https://linuxmint.com/edition.php?id=254
 
 ------------------------------------
 
