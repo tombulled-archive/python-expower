@@ -78,7 +78,7 @@ If that doesn't help, see: https://github.com/clach04/python-tuya/wiki
 >>> 
 >>> # Change colour
 >>> _ = bulb.set_green()
->>> _ = bulb.set_colour(50, 45, 37) # RBG values
+>>> _ = bulb.set_colour(50, 45, 37) # RGB values
 >>> 
 >>> # Get funky
 >>> _ = bulb.set_wonderful()
