@@ -2,7 +2,9 @@
 
 ## Python 3 API for Expower Smart Bulbs
 
-![Expower Smart Wifi B22 Rgb Dimmable 7W LED Bulb](https://images-na.ssl-images-amazon.com/images/I/5183GmewMgL._SX500_.jpg)
+<p align="center">
+    <img src="https://www.androidcentral.com/sites/androidcentral.com/files/article_images/2018/12/lohas-smart-led-bulb-render.png" alt="Expower Smart Wifi B22 Rgb Dimmable 7W LED Bulb" width="200px">
+</p>
 
 -----------------------------------
 
