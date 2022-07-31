@@ -1,36 +1,23 @@
 # python-expower
-
-## Python 3 API for Expower Smart Bulbs
+Python 3 API for Expower Smart Bulbs
 
 <p align="center">
     <img src="https://www.androidcentral.com/sites/androidcentral.com/files/article_images/2018/12/lohas-smart-led-bulb-render.png" alt="Expower Smart Wifi B22 Rgb Dimmable 7W LED Bulb" width="200px">
 </p>
 
------------------------------------
+## Tested Bulbs
+| Bulb                                            | Link                                                  |
+| ----------------------------------------------- | ----------------------------------------------------- |
+| Expower Smart Wifi B22 Rgb Dimmable 7W LED Bulb | http://www.iexpower.com/en/h_product_1482156406183304 |
 
-### Tested on the following Bulbs:
-Bulb | Link
------- | ----
-Expower Smart Wifi B22 Rgb Dimmable 7W LED Bulb | https://www.amazon.co.uk/d/Colour-Changing-Bulbs/Expower-B22-7W-Compatible-Smartphone/B075Q9NHF2/
-
------------------------------------
-
-### Tested on the following Operating Systems:
-Operating System | Link
----------------- | ----
-Windows 10 | https://www.microsoft.com/en-gb/windows
-Linux Mint Tara (v19, 64bit, Cinnamon) | https://linuxmint.com/edition.php?id=254
-
-------------------------------------
-
-### Before you get started:
+## Getting Started
 You must first find some values identifying your Smart Bulb
 
 Follow this tutorial: https://github.com/tombulled/python-expower/blob/master/KEY_EXTRACTION.md
 
 If that doesn't help, see: https://github.com/clach04/python-tuya/wiki
 
-### Basic Example:
+## Example Usage
 ```python
 >>> import expower
 >>> from pprint import pprint
@@ -87,27 +74,3 @@ If that doesn't help, see: https://github.com/clach04/python-tuya/wiki
 >>> _ = bulb.edit_wonderful(speed=100)
 >>> 
 ```
-
------------------------------------
-
-### Libraries that were of great help:
-
-Name | Link
----- | ----
-python-tuya | https://github.com/clach04/python-tuya
-
------------------------------------
-
-### Software/Applications that were of great help:
-
-Software | Link
--------- | ----
-eFamilyCloud | https://play.google.com/store/apps/details?id=com.efamily.cloud
-Smart Life - Smart Living | https://play.google.com/store/apps/details?id=com.tuya.smartlife
-SSL Capture | https://play.google.com/store/apps/details?id=com.minhui.networkcapture
-Atom | https://atom.io/
-Python | https://www.python.org/
-
------------------------------------
-
-Total bulbs harmed in the making of this code: **0**
